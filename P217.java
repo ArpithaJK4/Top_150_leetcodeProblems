@@ -1,5 +1,5 @@
 import java.util.Arrays;
-
+ 
 class Solution {
     public boolean containsDuplicate(int[] nums) {
         Arrays.sort(nums); // O(n log n)
